@@ -5,11 +5,15 @@ kombiniranjem teh podatkov z spolom, starostjo in ali je vozilo registrirala pra
 iziro nakupa vozila.
 
 Cilji:
+Spreminjanje motorjev skozi čas
 Pridobiti podatke o učinkovitosti motorja
 Koliko je učinkovitost motorja pomembna za osebe ali podjetja
-Napovde kdaj bodo električni avtomobili dosegli 50% od vseh novih registracij
+Napovedati kdaj bodo električni avtomobili dosegli 50% od vseh novih registracij
 
 Vir podatkov:
 https://podatki.gov.si - Prvič registrirana vozila po mesecih
+https://data.europa.eu/euodp
 
 Oblka podatkov:
+Podatki so večinoma v csv obliki.
+Iz podatkov "Prvič registrirana vozila po mesecih" lahko razberemo podatke o osebi, ki je regisrtirala avto (spol, starost, ...) in podatke oavtomobilu (poraba, medosna razdalja, max teža, model avta, ...)
