@@ -1,5 +1,5 @@
 Opis problema:
-Rauskovali bomo prodajo (oz. registracijo novih vozi). Pri teh podatkih se bomo osredotočili na podatke o motorju vozila, torej o porabi,
+Raziskovali bomo prodajo (oz. registracijo novih vozi). Pri teh podatkih se bomo osredotočili na podatke o motorju vozila, torej o porabi,
 prostornini, vrsti goriva in izpusti. Iz le-teh bomo pridobili podatke o tem, koliko motroji posatajao učinkovitejši. Prav tako lahko z
 kombiniranjem teh podatkov z spolom, starostjo in ali je vozilo registrirala pravna oseba ugotovimo, koliko učinkovitost motorja vpliva na
 iziro nakupa vozila.
